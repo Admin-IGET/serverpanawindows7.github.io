@@ -1,6 +1,6 @@
 # moje weby
-pixel rush :https://admin-iget.github.io/serverpanawindows7.github.io/pixel_rush.html
+pixel rush : <a href="https://admin-iget.github.io/serverpanawindows7.github.io/pixel_rush.html">1</a>
 
 
 
-muj server : https://admin-iget.github.io/serverpanawindows7.github.io/ServerpanaWindows7.html
+muj server : <a href="https://admin-iget.github.io/serverpanawindows7.github.io/ServerpanaWindows7.html">2</a>
